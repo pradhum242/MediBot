@@ -1,6 +1,6 @@
 # MediBot
 
-MediBot is a Langchain Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Medical Bot.
+MediBot is a Langchain Medical Bot which is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Medical Bot.
 
 ## Table of Contents
 
@@ -48,7 +48,4 @@ The Langchain Medical Bot can be used for answering medical-related queries. To 
 5. The bot can be customized to return specific information based on the query and context provided.
 
 
-
-For more information on how to use, configure, and extend the Langchain Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
-
-Happy coding with Langchain Medical Bot! 🚀
+Happy coding with MediBot!
